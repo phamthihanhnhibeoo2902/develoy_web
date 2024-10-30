@@ -1,0 +1,43 @@
+.header {
+    margin-top: -35px;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 40px;
+    text-align: center;
+}
+
+.header h1 {
+    margin-bottom: 0;
+}
+
+.contact-info {
+    font-size: 1.2rem;
+    margin-top: 10px;
+}
+
+.nav-links {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.nav-links a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #4604ef;
+    font-weight: bold;
+}
+
+.flower-table {
+    margin-top: 30px;
+}
+
+.flower-image {
+    width: 150px;
+    margin-right: 20px;
+}
+
+.order-section {
+    display: flex;
+    align-items: center;
+}
